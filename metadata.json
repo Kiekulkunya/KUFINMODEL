@@ -1,0 +1,5 @@
+{
+  "name": "Thai SET100 Financial Variable Analysis",
+  "description": "An application designed for financial modeling experts to analyze variables impacting the top 100 Thai stocks. It provides business justifications, outlines key financial ratios, and simulates the download of quarterly financial data for analysis.",
+  "requestFramePermissions": []
+}
